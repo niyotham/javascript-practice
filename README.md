@@ -66,13 +66,8 @@ uvicorn app:app --reload
 - After running the front end, one can simply go over to the browser and type in [http://localhost:3000](http://localhost:3000). or click this [link](http://localhost:3000)
 - A page similar to this will appear.
 
-![](screnshoots/List of meetups page.png)
+![image](https://github.com/niyotham/react-crash-course-code/blob/main/screnshoots/List%20of%20meetups%20page.png)
 
-- review the results of the  favorites meeting  and the list of the meeting 
--
-
-![](screnshoots/List of meetups page.png)
-!Meetups enjoyed](https://github.com/niyotham/react-crash-course-code/blob/main/screnshoots/Meets%20enjoyed.png))
 
 
 ## Authors
