@@ -24,7 +24,7 @@
 ### Installing this application
 
 ### How to use
-First perform the following code: 
+First use the code to be able to start : 
 ``` npx create-react-app meetup_list
 cd meetup_list
 npm start
