@@ -72,7 +72,7 @@ uvicorn app:app --reload
 -
 
 ![](screnshoots/List of meetups page.png)
-![](screnshoots/Meets enjoyed.png)
+[Meetups enjoyed]([screnshoots/Meets enjoyed.png](https://github.com/niyotham/react-crash-course-code/blob/main/screnshoots/Meets%20enjoyed.png))
 
 
 ## Authors
